@@ -1,6 +1,10 @@
+### Hi there 👋
+<div align="center">
+  <img src="https://c.tenor.com/S61VCO73mOAAAAAC/linux-tux.gif" width="300" height="300"/>
+</div>
 <!--
 **kruczys/kruczys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
+
 
 Here are some ideas to get you started:
 
