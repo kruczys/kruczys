@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://c.tenor.com/S61VCO73mOAAAAAC/linux-tux.gif" width="300" height="300"/>
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kruczys&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kruczys&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
 <!--
 **kruczys/kruczys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
