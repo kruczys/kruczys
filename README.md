@@ -1,6 +1,6 @@
 # Hi there, I'm Konrad 👋
 
-Software Engineer passionate about C++ and Linux.
+Computer science student passionate about C++ and Linux.
 
 ## Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
