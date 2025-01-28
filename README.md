@@ -12,7 +12,7 @@ Computer science student passionate about C++ and Linux.
 ## Quick Facts
 - 🔭 Currently working on: [fiberOrca](https://github.com/kruczys/fiberOrca)
 - 🌱 Learning: [C++](https://www.learncpp.com/) and [OS development](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-- 🎨 Hobbys: trains, cycling, 3D graphics and photography
+- 🎨 Hobbies: trains, cycling, 3D graphics and photography
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kruczys&show_icons=true&theme=dark)
